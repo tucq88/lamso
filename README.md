@@ -24,3 +24,6 @@ An **MVP** should at least contains these features
   - Current status
   - On-going cars
 
+## What next?
+- Design DB Schema
+

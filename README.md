@@ -10,3 +10,17 @@ sitting on her chair for hours. It could even:
 - Manage cars and remaining cargos
 - Support printing reports and sent to partners
 - Generate metrics show overview of "system"
+
+## MVP
+An **MVP** should at least contains these features
+- Manage partners
+  - See businees that they're parted with
+  - See their status on each business: Paid, Not paid yet, Still in debt...
+- Manage businesses
+  - Manage cars 
+  - Manage cargos
+  - Manage contracts
+- Overview
+  - Current status
+  - On-going cars
+
